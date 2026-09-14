@@ -91,7 +91,3 @@ jobs:
               --exclude-rules unclaimed_maintainer_email_domain || true
           done
         continue-on-error: true
-
-    done
-  continue-on-error: true
-
